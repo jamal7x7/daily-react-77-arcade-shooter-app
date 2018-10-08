@@ -2,7 +2,7 @@
 
 > Challenge: create an Arcade Shooter Game like "Galaga".
 
-Work in progress: https://github.com/daily-react-77-arcade-shooter-app
+Work in progress: https://github.com/jamal7x7/daily-react-77-arcade-shooter-app
 
 Road-map:
 
